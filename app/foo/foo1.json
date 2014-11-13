@@ -1,0 +1,17 @@
+[
+  {
+    "coolness": "great",
+    "user-friendliness": "bad",
+    "happy": "no"
+  },
+  {
+    "coolness": "bad",
+    "user-friendliness": "bad",
+    "happy": "no"
+  },
+  {
+    "coolness": "great",
+    "user-friendliness": "great",
+    "happy": "yes"
+  }
+]
